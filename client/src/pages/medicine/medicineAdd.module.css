@@ -1,0 +1,47 @@
+/* MedicineEdit.module.css */
+
+.labelAddMed {
+    margin-bottom: 8px;
+    width: 150px;
+    /* Adjust the width as needed */
+    display: inline-block;
+    /* Ensures labels and inputs are on the same line */
+}
+
+.containerAddMed {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.headerAddMed {
+    color: #007bff;
+}
+
+.formAddMed {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputAddMed {
+    padding: 8px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+    text-align: left;
+}
+
+.buttonAddMed {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.buttonAddMed:hover {
+    background-color: #0056b3;
+}

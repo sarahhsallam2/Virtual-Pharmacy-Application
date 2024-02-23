@@ -1,0 +1,99 @@
+.result-container {
+    margin-top: 100px;
+}
+
+.ddl-container {
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 90px;
+    position: relative;
+    top: 0;
+    z-index: 100;
+    align-items: center;
+}
+
+.ddl-select {
+    margin-left: 6px;
+    height: 40px;
+    width: 240px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.ddl-select option {
+    text-align: center;
+}
+
+.ddl-label {
+    margin-left: 350px;
+    font-weight: bold;
+}
+
+.list-title {
+    text-align: center;
+    margin-right: 800px;
+    transform: translateY(150px);
+    position: relative;
+    z-index: 100;
+}
+
+.pharmacistTable {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    /* Example width to ensure the table doesn't stretch the full width of the container */
+}
+
+.pharmacistTable {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    /* Example width to ensure the table doesn't stretch the full width of the container */
+}
+
+.main__div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub__div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sales__label {
+    margin: 10px;
+}
+
+.sales__btn {
+    width: 30%;
+    background-color: #054574;
+    color: white;
+    padding: 8px 12px;
+    cursor: pointer;
+    margin: 30px;
+}
+
+
+.logo {
+    width: 50px;
+    fill: white;
+    padding-right: 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.inner-header {
+    height: 65vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
